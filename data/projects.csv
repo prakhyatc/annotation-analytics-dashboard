@@ -1,0 +1,4 @@
+project_id,name,task_type,target_annotations
+P001,ClaimScore Survey,claim_verification,20000
+P002,Wildfire Detection,entity_classification,18000
+P003,CheckWorthy Tweets,relevance_labeling,14000

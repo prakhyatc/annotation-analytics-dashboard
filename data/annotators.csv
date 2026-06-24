@@ -1,0 +1,9 @@
+annotator_id,name,level,project_ids
+A01,Aisha Patel,senior,"['P001', 'P002']"
+A02,James Liu,senior,"['P001', 'P003']"
+A03,Maria Santos,mid,"['P002', 'P003']"
+A04,David Kim,mid,"['P001', 'P002']"
+A05,Priya Nair,junior,['P001']
+A06,Carlos Rivera,junior,"['P002', 'P003']"
+A07,Fatima Hassan,mid,['P003']
+A08,Tom Nguyen,junior,"['P001', 'P003']"

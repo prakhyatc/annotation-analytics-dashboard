@@ -1,0 +1,9 @@
+annotator_id,annotator_name,annotator_level,total_annotations,avg_accuracy_pct,avg_review_time_sec,total_flagged,projects_worked,flag_rate_pct,efficiency_score
+A02,James Liu,senior,30349,93.33,37.86851851851852,1997,2,6.58,73.94
+A07,Fatima Hassan,mid,11995,89.83,37.52289156626506,1189,1,9.91,71.82
+A01,Aisha Patel,senior,30179,92.73,42.32993630573249,2178,2,7.22,65.72
+A03,Maria Santos,mid,25059,89.5,43.7224852071006,2606,2,10.4,61.41
+A04,David Kim,mid,24197,87.32,57.775000000000006,3005,2,12.42,45.34
+A06,Carlos Rivera,junior,19176,82.26,57.64551282051283,3367,2,17.56,42.81
+A08,Tom Nguyen,junior,18359,82.1,72.06521739130434,3233,2,17.61,34.18
+A05,Priya Nair,junior,9120,78.39,91.75822784810126,1927,1,21.13,25.63

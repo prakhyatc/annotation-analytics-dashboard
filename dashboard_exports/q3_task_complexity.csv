@@ -1,0 +1,4 @@
+task_type,project_name,annotator_count,total_annotations,avg_review_time_sec,min_review_time,max_review_time,avg_accuracy_pct,flag_rate_pct
+claim_verification,ClaimScore Survey,5,60326,69.47164179104477,38.8,118.0,85.25,13.38
+entity_classification,Wildfire Detection,4,48472,48.39714285714286,20.9,89.1,88.72,10.58
+relevance_labeling,CheckWorthy Tweets,5,59636,42.252631578947366,15.0,90.9,88.41,10.56
