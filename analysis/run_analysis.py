@@ -1,11 +1,3 @@
-"""
-Annotation Analytics — Analysis Runner
-Runs all 5 SQL queries via pandas, exports results as CSVs for Tableau/Power BI,
-and generates matplotlib charts for README screenshots.
-
-Run: python analysis/run_analysis.py
-"""
-
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt

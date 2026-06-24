@@ -1,10 +1,3 @@
-"""
-Synthetic Annotation Platform Dataset Generator
-Based on IDIR Lab annotation platform schema (3 research projects, ~50K annotations)
-Run: python data/generate_data.py
-Output: data/annotations.csv, data/annotators.csv, data/projects.csv
-"""
-
 import pandas as pd
 import numpy as np
 from datetime import datetime, timedelta
